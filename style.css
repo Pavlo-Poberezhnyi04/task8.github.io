@@ -1,0 +1,73 @@
+.first {
+    width: 100%;
+    overflow: hidden;
+}
+.second {
+    width: 100%;
+    overflow: hidden; 
+}
+.third {
+    width: 100%;
+    overflow: hidden; 
+}
+.fourth {
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: flex-end;
+}
+.fifth {
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+.first div {
+    height: 100px;
+    width: 20%;
+    background-color: gray;
+    margin: 10px;
+    display: flex;
+}
+.second div {
+    height: 100px;
+    width: 20%;
+    background-color: gray;
+    margin: 10px;
+    display: flex;
+}
+.third div {
+    height: 100px;
+    width: 20%;
+    background-color: gray;
+    margin: 10px;
+    display: flex;
+}
+
+
+.big {
+    height: 230px;
+    width: 20%;
+    background-color: gray;
+    margin: 10px;
+
+}
+.small div{
+    height: 110px;
+    width: 200px;
+    background-color: gray;
+    margin: 10px;
+    display: flex;
+}
+
+
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+
+
+
